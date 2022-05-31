@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="my_custom_table">b1532dd997f3011024b99300f153af90</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>my_custom_tables</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_my_custom_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_58872_needit.my_custom_table_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-30 10:04:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3553e11d97f3011024b99300f153af2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>my_custom_tables</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_3553e11d97f3011024b99300f153af2f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-30 10:04:58</sys_updated_on>
+        <timeline_page/>
+        <title>my_custom_tables</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4ea15dabdb09c450f492c5970596195f</instance_id>
+        <instance_name>dev94837</instance_name>
+        <name>sys_app_module_3553e11d97f3011024b99300f153af2f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="my_custom_table">b1532dd997f3011024b99300f153af90</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>my_custom_tables</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_my_custom_table</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_58872_needit.my_custom_table_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-30 10:04:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3553e11d97f3011024b99300f153af2f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>my_custom_tables</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_3553e11d97f3011024b99300f153af2f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-30 10:04:58</sys_updated_on><timeline_page/><title>my_custom_tables</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1214991397</payload_hash>
+        <record_name>my_custom_tables</record_name>
+        <reverted_from/>
+        <source>10ac591597f3011024b99300f153afce</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-30 10:04:58</sys_created_on>
+        <sys_id>f553e11d97f3011024b99300f153af32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181146d05580000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-30 10:04:58</sys_updated_on>
+        <type>Module</type>
+        <update_guid>3153e11de2f301109063be095e512a32</update_guid>
+        <update_guid_history>3153e11de2f301109063be095e512a32:1214991397</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="my_custom_tables">3264255d97f3011024b99300f153af48</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-30 10:09:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>5a13949960b4460a849a224c1a199329</sys_id>
+        <sys_metadata>3553e11d97f3011024b99300f153af2f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>my_custom_tables</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_3553e11d97f3011024b99300f153af2f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_3553e11d97f3011024b99300f153af2f">f553e11d97f3011024b99300f153af32</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-30 10:09:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
